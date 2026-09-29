@@ -20,3 +20,13 @@ git init
 git --version
 git pull
 ```
+## Comands Git amb explicació
+| Comand  | Explicació |
+| ------------- | ------------- |
+| git --version | Veure la versió del git |
+| git status  | Veure l'estat del Git  |
+| git add .  | Prepara els fitxers nous i modificats de la carpeta actual i els seus subdirectoris  |
+| git init | Crea un repositori vuit en Git |
+| git pull | Descarrega els canvis més recents |
+| gi push -u | Puja els canvis al repositori central |
+| git commit -m "Text" | Guarda de forma permanent una instantània dels canvis |
