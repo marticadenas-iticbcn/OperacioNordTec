@@ -10,7 +10,7 @@
 - [ ] Fer un seguiment
 ## Links
 Taques i treballs fets amb guies del [Moodle](https://educaciodigital.cat/iticbcn/moodle/)
-## Comands importants del Git:
+## Comands del Git dia 29/9:
 ```
 git status
 git add .
