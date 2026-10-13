@@ -3,7 +3,7 @@
 ## Índex
 - [Operació NordTec](#operació-nordtec)
   - [Índex](#índex)
-  - [Estat del projecte](#estat-del-projecte)
+  - [:checkered\_flag: Estat del projecte :checkered\_flag:](#checkered_flag-estat-del-projecte-checkered_flag)
   - [Arquitectura de xarxa](#arquitectura-de-xarxa)
   - [Configuracions](#configuracions)
   - [Incidències i solucions](#incidències-i-solucions)
@@ -11,7 +11,7 @@
   - [Reflexions tècniques](#reflexions-tècniques)
   - [Llista pasos per guardar canvis al GitHub](#llista-pasos-per-guardar-canvis-al-github)
   - [Comands Git amb explicació](#comands-git-amb-explicació)
-## Estat del projecte
+## :checkered_flag: Estat del projecte :checkered_flag:
 - :white_check_mark: ...
 - :arrows_counterclockwise: ...
 ## Arquitectura de xarxa
