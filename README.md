@@ -7,10 +7,10 @@
   - [:hammer\_and\_wrench: Arquitectura de xarxa](#hammer_and_wrench-arquitectura-de-xarxa)
   - [:gear: Configuracions](#gear-configuracions)
   - [:interrobang: Incidències i solucions](#interrobang-incidències-i-solucions)
-  - [Decisions tècniques](#decisions-tècniques)
-  - [Reflexions tècniques](#reflexions-tècniques)
-  - [Llista pasos per guardar canvis al GitHub](#llista-pasos-per-guardar-canvis-al-github)
-  - [Comands Git amb explicació](#comands-git-amb-explicació)
+  - [:bulb: Decisions tècniques](#bulb-decisions-tècniques)
+  - [:thought\_balloon: Reflexions tècniques](#thought_balloon-reflexions-tècniques)
+  - [:receipt: Llista pasos per guardar canvis al GitHub](#receipt-llista-pasos-per-guardar-canvis-al-github)
+  - [:keyboard: Comands Git amb explicació](#keyboard-comands-git-amb-explicació)
 ## :checkered_flag: Estat del projecte
 - :white_check_mark: ...
 - :arrows_counterclockwise: ...
@@ -28,14 +28,14 @@
 
 > [!CAUTION]
 > Ojoo
-## Decisions tècniques
-## Reflexions tècniques
-## Llista pasos per guardar canvis al GitHub
+## :bulb: Decisions tècniques
+## :thought_balloon: Reflexions tècniques
+## :receipt: Llista pasos per guardar canvis al GitHub
 1. Guardar l'archiu (ctrl + s)
 2. **git add .** al terminal
 3. **git commit -m "Escriure el que he fet"** al terminal
 4. **git push -u** al terminal
-## Comands Git amb explicació
+## :keyboard: Comands Git amb explicació
 | Comand  | Explicació |
 | ------------- | ------------- |
 | git --version | Veure la versió del Git |
