@@ -1,14 +1,16 @@
 # Operació NordTec
-### *Martí Cadenas Prados ASIX1B*
+***Martí Cadenas Prados ASIX1B***
 ## Índex
-1. [Estat del projecte]()
-2. [Arquitectura de xarxa]()
-3. [Configuracions]()
-4. [Incidències i solucions]()
-5. [Decisions tècniques]()
-6. [Reflexions tècniques]()
-7. [Llista pasos per guardar canvis al GitHub]()
-8. [Comands Git amb explicació]()
+- [Operació NordTec](#operació-nordtec)
+  - [Índex](#índex)
+  - [Estat del projecte](#estat-del-projecte)
+  - [Arquitectura de xarxa](#arquitectura-de-xarxa)
+  - [Configuracions](#configuracions)
+  - [Incidències i solucions](#incidències-i-solucions)
+  - [Decisions tècniques](#decisions-tècniques)
+  - [Reflexions tècniques](#reflexions-tècniques)
+  - [Llista pasos per guardar canvis al GitHub](#llista-pasos-per-guardar-canvis-al-github)
+  - [Comands Git amb explicació](#comands-git-amb-explicació)
 ## Estat del projecte
 - [] ...
 - [] ...
