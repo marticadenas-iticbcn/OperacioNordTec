@@ -9,7 +9,7 @@
   - [:interrobang: Incidències i solucions](#interrobang-incidències-i-solucions)
   - [:bulb: Decisions tècniques](#bulb-decisions-tècniques)
   - [:thought\_balloon: Reflexions tècniques](#thought_balloon-reflexions-tècniques)
-  - [:receipt: Llista pasos per guardar canvis al GitHub](#receipt-llista-pasos-per-guardar-canvis-al-github)
+  - [:receipt: Pasos per guardar canvis al GitHub](#receipt-pasos-per-guardar-canvis-al-github)
   - [:keyboard: Comands Git amb explicació](#keyboard-comands-git-amb-explicació)
 ## :checkered_flag: Estat del projecte
 - :white_check_mark: ...
@@ -30,7 +30,7 @@
 > Ojoo
 ## :bulb: Decisions tècniques
 ## :thought_balloon: Reflexions tècniques
-## :receipt: Llista pasos per guardar canvis al GitHub
+## :receipt: Pasos per guardar canvis al GitHub
 1. Guardar l'archiu (ctrl + s)
 2. **git add .** al terminal
 3. **git commit -m "Escriure el que he fet"** al terminal
