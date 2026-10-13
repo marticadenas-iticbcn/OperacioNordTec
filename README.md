@@ -23,7 +23,7 @@ git pull
 ## Comands Git amb explicació
 | Comand  | Explicació |
 | ------------- | ------------- |
-| git --version | Veure la versió del git |
+| git --version | Veure la versió del Git |
 | git status  | Veure l'estat del Git  |
 | git add .  | Prepara els fitxers nous i modificats de la carpeta actual i els seus subdirectoris  |
 | git init | Crea un repositori vuit en Git |
