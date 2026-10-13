@@ -17,8 +17,8 @@
 ## :hammer_and_wrench: Arquitectura de xarxa
 ## Configuracions
 ## Incidències i solucions
-| Missatge d'error | Quan? | Causa | Solució | Detectada per |
-| ---------------- | ----- | ----- | ------- | ------------- |
+| Missatge d'error :bangbang: | Quan :question: | Causa :mag_right: | Solució :o: | Detectada per :bust_in_silhouette: |
+| --------------------------- | --------------- | ----------------- | ----------- | ---------------------------------- |
 | ... | ... | ... | ... | ... |
 > [!TIP]
 > Para facilitar
