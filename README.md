@@ -3,18 +3,18 @@
 ## Índex
 - [Operació NordTec](#operació-nordtec)
   - [Índex](#índex)
-  - [:checkered\_flag: Estat del projecte :checkered\_flag:](#checkered_flag-estat-del-projecte-checkered_flag)
-  - [Arquitectura de xarxa](#arquitectura-de-xarxa)
+  - [:checkered\_flag: Estat del projecte](#checkered_flag-estat-del-projecte)
+  - [:hammer\_and\_wrench: Arquitectura de xarxa](#hammer_and_wrench-arquitectura-de-xarxa)
   - [Configuracions](#configuracions)
   - [Incidències i solucions](#incidències-i-solucions)
   - [Decisions tècniques](#decisions-tècniques)
   - [Reflexions tècniques](#reflexions-tècniques)
   - [Llista pasos per guardar canvis al GitHub](#llista-pasos-per-guardar-canvis-al-github)
   - [Comands Git amb explicació](#comands-git-amb-explicació)
-## :checkered_flag: Estat del projecte :checkered_flag:
+## :checkered_flag: Estat del projecte
 - :white_check_mark: ...
 - :arrows_counterclockwise: ...
-## Arquitectura de xarxa
+## :hammer_and_wrench: Arquitectura de xarxa
 ## Configuracions
 ## Incidències i solucions
 | Missatge d'error | Quan? | Causa | Solució | Detectada per |
