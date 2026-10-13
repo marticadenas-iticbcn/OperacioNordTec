@@ -6,7 +6,7 @@
   - [:checkered\_flag: Estat del projecte](#checkered_flag-estat-del-projecte)
   - [:hammer\_and\_wrench: Arquitectura de xarxa](#hammer_and_wrench-arquitectura-de-xarxa)
   - [:gear: Configuracions](#gear-configuracions)
-  - [:interrobang: Incidències i solucions](#interrobang-incidències-i-solucions)
+  - [:construction: Incidències i solucions](#construction-incidències-i-solucions)
   - [:bulb: Decisions tècniques](#bulb-decisions-tècniques)
   - [:thought\_balloon: Reflexions tècniques](#thought_balloon-reflexions-tècniques)
   - [:receipt: Pasos per guardar canvis al GitHub](#receipt-pasos-per-guardar-canvis-al-github)
@@ -16,7 +16,7 @@
 - :arrows_counterclockwise: ...
 ## :hammer_and_wrench: Arquitectura de xarxa
 ## :gear: Configuracions
-## :interrobang: Incidències i solucions
+## :construction: Incidències i solucions
 | Missatge d'error :bangbang: | Quan :question: | Causa :mag_right: | Solució :o: | Detectada per :bust_in_silhouette: |
 | --------------------------- | --------------- | ----------------- | ----------- | ---------------------------------- |
 | ... | ... | ... | ... | ... |
