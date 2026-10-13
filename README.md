@@ -16,13 +16,10 @@
 ## Configuracions
 ## Incidències i solucions
 | Missatge d'error | Quan? | Causa | Solució | Detectada per |
+| ---------------- | ----- | ----- | ------- | ------------- |
 | ... | ... | ... | ... | ... |
 > [!TIP]
 > Para facilitar
-> [!WARNING]
-> Cuidado
-> [|CAUTION]
-> Ojoo
 ## Decisions tècniques
 ## Reflexions tècniques
 ## Llista pasos per guardar canvis al GitHub
