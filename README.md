@@ -1,25 +1,35 @@
 # Operació NordTec
-## *Martí Cadenas Prados*
+### *Martí Cadenas Prados ASIX1B*
+## Índex
+1. [Estat del projecte]()
+2. [Arquitectura de xarxa]()
+3. [Configuracions]()
+4. [Incidències i solucions]()
+5. [Decisions tècniques]()
+6. [Reflexions tècniques]()
+7. [Llista pasos per guardar canvis al GitHub]()
+8. [Comands Git amb explicació]()
+## Estat del projecte
+- [] ...
+- [] ...
+## Arquitectura de xarxa
+## Configuracions
+## Incidències i solucions
+| Missatge d'error | Quan? | Causa | Solució | Detectada per |
+| ... | ... | ... | ... | ... |
+> [!TIP]
+> Para facilitar
+> [!WARNING]
+> Cuidado
+> [|CAUTION]
+> Ojoo
+## Decisions tècniques
+## Reflexions tècniques
 ## Llista pasos per guardar canvis al GitHub
 1. Guardar l'archiu (ctrl + s)
 2. **git add .** al terminal
-3. **git commit -m "(Escriure el que he fet)"** al terminal
+3. **git commit -m "Escriure el que he fet"** al terminal
 4. **git push -u** al terminal
-## Llista de tasques
-- [x] Fer la tasca *practica-markdown*
-- [ ] Fer un seguiment
-## Links
-Taques i treballs fets amb guies del [Moodle](https://educaciodigital.cat/iticbcn/moodle/)
-## Comands del Git dia 29/9:
-```
-git status
-git add .
-git commit -m "Text"
-git push -u
-git init
-git --version
-git pull
-```
 ## Comands Git amb explicació
 | Comand  | Explicació |
 | ------------- | ------------- |
