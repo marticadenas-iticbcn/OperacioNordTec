@@ -1,8 +1,8 @@
 # Operació NordTec
 ***Martí Cadenas Prados ASIX1B***
-## Índex
+## :pushpin: Índex
 - [Operació NordTec](#operació-nordtec)
-  - [Índex](#índex)
+  - [:pushpin: Índex](#pushpin-índex)
   - [:checkered\_flag: Estat del projecte](#checkered_flag-estat-del-projecte)
   - [:hammer\_and\_wrench: Arquitectura de xarxa](#hammer_and_wrench-arquitectura-de-xarxa)
   - [:gear: Configuracions](#gear-configuracions)
